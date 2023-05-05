@@ -1,0 +1,20 @@
+{
+  "name": "serverapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Shivakumar A",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mocha": "^10.2.0",
+    "mongodb": "4.1",
+    "mongoose": "^7.1.0",
+    "swagger": "^0.7.5",
+    "swagger-ui-express": "^4.6.3"
+  }
+}
